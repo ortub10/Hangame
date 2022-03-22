@@ -1,1 +1,1 @@
-# hangamea
+# hangame
